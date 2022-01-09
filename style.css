@@ -12,6 +12,10 @@ body {
   border-radius: 10px;
   margin-top: 80px;
   padding: 25px 0;
+  background-image: linear-gradient(
+    rgb(94, 178, 247, 0.5),
+    rgba(156, 64, 184, 0.5)
+  );
 }
 
 .logo {
