@@ -1,9 +1,11 @@
 body {
-  background-color: lightgra;
+  background-color: lightgray;
   font-family: sans-serif;
 }
 
 .container {
   width: 500px;
   height: 400;
+  margin: 0 auto;
+  background-color: #fff;
 }
