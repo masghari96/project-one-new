@@ -12,7 +12,14 @@ body {
   border-radius: 10px;
   margin-top: 80px;
   padding: 25px 0;
+<<<<<<< HEAD
   box-shadow: 0 0 15px #8c8f8c;
+=======
+  background-image: linear-gradient(
+    rgb(94, 178, 247, 0.5),
+    rgba(156, 64, 184, 0.5)
+  );
+>>>>>>> 3eafc775b54a75ff5165ff50925f250d0ad2a040
 }
 
 .logo {
